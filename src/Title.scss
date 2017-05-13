@@ -1,0 +1,12 @@
+@import 'https://fonts.googleapis.com/css?family=MedievalSharp|Oxygen';
+
+$textColor: #fcf9f4;
+
+.Title {
+  font-family: 'MedievalSharp', cursive;
+  color: $textColor;
+}
+
+.Title h1 {
+  font-size: 3.0em;
+}

@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
+import Title from './Title';
+import Nav from './Nav';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <h2>Scarborough Fare</h2>
+        <Title />
+        <Nav />
       </div>
     );
   }

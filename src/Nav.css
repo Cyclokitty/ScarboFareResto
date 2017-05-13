@@ -1,0 +1,17 @@
+.Nav {
+  width: 30%;
+  color: #fcf9f4;
+  font-family: 'MedievalSharp', cursive;
+  text-decoration: none; }
+
+ul {
+  list-style-type: none;
+  padding-top: 20px; }
+
+li {
+  list-style-type: none;
+  padding: 10px;
+  font-size: 2.0em; }
+
+li:hover {
+  color: #FED76D; }
