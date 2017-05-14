@@ -1,7 +1,12 @@
 @import 'https://fonts.googleapis.com/css?family=MedievalSharp|Oxygen';
 .Title {
   font-family: 'MedievalSharp', cursive;
-  color: #fcf9f4; }
+  color: #fcf9f4;
+  margin: 10px; }
 
 .Title h1 {
-  font-size: 3.0em; }
+  font-size: 3.0em;
+  margin: 0; }
+
+.Title h3 {
+  font-family: 'Oxygen', sans-serif; }
