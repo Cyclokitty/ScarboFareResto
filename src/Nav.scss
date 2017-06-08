@@ -1,5 +1,9 @@
 $textColor: #fcf9f4;
 
+.NavAndMessages {
+  width: 100%;
+}
+
 .Nav {
   width: 30%;
   color: $textColor;
@@ -20,4 +24,10 @@ li {
 
 li:hover {
   color: #FED76D;
+}
+
+.Messages {
+  width: 70%;
+  color: $textColor;
+  font-family: 'Oxygen';
 }
